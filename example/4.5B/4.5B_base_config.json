@@ -62,10 +62,10 @@
         "window_size": 4,
         "fps": 24,
         "chunk_width": 6,
-        "load": "./downloads/4.5B_base",
-        "t5_pretrained": "./downloads/t5_pretrained",
+        "load": "/export/share/projects/videogen/checkpoints/magi/ckpt/magi/4.5B_base",
+        "t5_pretrained": "/export/share/projects/videogen/checkpoints/magi/ckpt/t5",
         "t5_device": "cpu",
-        "vae_pretrained": "./downloads/vae",
+        "vae_pretrained": "/export/share/projects/videogen/checkpoints/magi/ckpt/vae",
         "scale_factor": 0.18215,
         "temporal_downsample_factor": 4
     },
